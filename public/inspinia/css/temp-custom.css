@@ -1,0 +1,17 @@
+h2 {
+    font-size: 20px;
+    color: orangered;
+}
+.table > tbody > tr > td {
+    vertical-align: middle;
+}
+
+.ot-table {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+}
+.ot-table .ot-table-cell{
+    display: table-cell;
+    vertical-align: middle;
+}
